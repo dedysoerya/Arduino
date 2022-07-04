@@ -1,0 +1,5 @@
+{
+    "sketch": "DigitalReadSerial.ino",
+    "port": "/dev/tty.wchusbserialfa130",
+    "board": "arduino:avr:uno"
+}
