@@ -4,7 +4,7 @@
  
 const char* ssid = "Mavens 2G";
 const char* password =  "adminmavens";
-const char* mqttServer = "118.98.64.212";
+const char* mqttServer = "172.16.100.248";
 const int mqttPort = 1883;
 const char* mqttUser = "admin";
 const char* mqttPassword = "adminmavens";
